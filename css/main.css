@@ -1,0 +1,24 @@
+.box, .caja
+{
+	width: 100px;
+	height: 100px;
+	margin:5px;
+	background-color: grey;
+	border: 1px solid black;
+
+}
+.contenedor
+{
+    width: 350px;
+	height: 115px;
+	background-color: grey;
+	border: 1px solid black;
+	padding: 10px;
+	margin:5px;
+}
+.contenedor .caja, .caja3, .caja4
+{
+	display:inline-block;
+
+}
+
